@@ -23,7 +23,8 @@ p {
             <h1>Cloud Computing</h1>
     </div>
  
-<div class="content"><center>
+  <div class="content">
+        <center>
             <h4>PERPUSTAKAAN UTAMA UIN SYARIF HIDYATULLAH JAKARTA</h4>
             <img src="perpustakaan.jpg" height= "250px" width= "500px">
             <p style="text-align: center">Perpustakaan utama UIN Jakarta ini bisa dibilang gedung baru. Perpustakaan-nya 
@@ -33,7 +34,8 @@ p {
             resiko penyebaran virus ini, kita juga bisa melatih team work secara berjauhan (tugas kelompok). kalo negatifnya sih jadi kurang produktif,
             jadi semakin susah juga buat memahami materi yang diberika dosen, jadi kurang konsentrasi juga untuk belajar karena suasana rumah, dan 
             tentunya masih banyak lagi hal lainnya mengenai suka duka dari study from home ini.</p>
-        </center></div>
+        </center>
+  </div>
 </div>
 </body>
 </html>
