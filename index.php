@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-  background-color: pink;
-}
+  <title>Tugas Cloud</title>
+  <style>
+    body {
+        background-color: pink;
+    }
 
-h1 {
-  color: white;
-  text-align: center;
-}
+    h1 {
+        color: white;
+        text-align: center;
+    }
 
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-</style>
+    p {
+      font-family: verdana;
+      font-size: 18px;
+    }
+  </style>
 </head>
+  
 <body>
-<div class="wrap">
+
     <div class="header">          
             <h1>Cloud Computing</h1>
     </div>
@@ -36,6 +38,6 @@ p {
             tentunya masih banyak lagi hal lainnya mengenai suka duka dari study from home ini.</p>
         </center>
   </div>
-</div>
+
 </body>
 </html>
