@@ -35,8 +35,8 @@
     }
 
     p {
-      font-family: verdana;
-      font-size: 18px;
+      font-family: sans-serif;
+      font-size: 15px;
     }
   </style>
 </head>
@@ -50,9 +50,9 @@
  
   <div class="konten">
         <center>
-            <h4>PERPUSTAKAAN UTAMA UIN SYARIF HIDYATULLAH JAKARTA</h4>
+            <h4>Fasilitas UIN Syarif Hidayatullah Jakarta</h4>
             <img src="perpustakaan.jpg" height= "250px" width= "500px">
-            <p style="text-align: center">Perpustakaan utama UIN Jakarta ini bisa dibilang gedung baru. Perpustakaan-nya 
+            <p style="text-align: center"> Perpustakaan utama UIN Jakarta ini atau dapat disebut juga Pusat Perpustakaan UIN Jakarta merupakan salah satu fasilitas yang ada di UIN jakarta. Perpustakaan-nya 
             sangat bersih dan juga sangat nyaman. Dan untuk isi buku Perpustakaan-nya juga lumayan lengkap. Sangat nyaman untuk mengerjakan tugas di sana.</p>
             <h4>STUDY FROM HOME</h4>
             <p style="text-align: center">Nama nya juga study from home, udah pasti ada positif dan negatifnya. positifnya ya kita bisa mengecilkan
