@@ -7,7 +7,29 @@
         background-color: pink;
     }
 
+    .wrap{
+	 	width: 970px;
+	 	margin: auto;
+	  }
+    
+    .wrap .judul{
+	 	background: grey;
+	 	height: 135px;
+	 	width: 650px;
+	 	border-style: ridge;
+	 	float: left;
+    padding-top: 15px;
+    }
+    
+    .wrap .konten{
+	 	background: grey;
+	 	height: 600px;
+	 	width: 650px;
+	 	border-style: ridge;
+	 	float: left;
+	 }
     h1 {
+        font-family: sans-serif;
         color: white;
         text-align: center;
     }
@@ -20,12 +42,12 @@
 </head>
   
 <body>
-
-    <div class="header">          
-            <h1>Cloud Computing</h1>
+<div class="wrap">
+    <div class="judul">          
+             <center><h1><em>Cloud Computing</em></h1></center>
     </div>
  
-  <div class="content">
+  <div class="konten">
         <center>
             <h4>PERPUSTAKAAN UTAMA UIN SYARIF HIDYATULLAH JAKARTA</h4>
             <img src="perpustakaan.jpg" height= "250px" width= "500px">
@@ -38,6 +60,6 @@
             tentunya masih banyak lagi hal lainnya mengenai suka duka dari study from home ini.</p>
         </center>
   </div>
-
+</div>
 </body>
 </html>
