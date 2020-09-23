@@ -24,7 +24,7 @@
     .wrap .konten{
 	 	background: grey;
 	 	height: 600px;
-	 	width: 650px;
+	 	width: 1800px;
 	 	border-style: ridge;
 	 	float: left;
 	 }
