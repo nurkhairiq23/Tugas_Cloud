@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tugas Cloud</title>
+  <title>Tugas Cloud Nurkhairi Amini</title>
   <style>
     body {
         background-color: pink;
@@ -15,7 +15,7 @@
     .wrap .judul{
 	 	background: grey;
 	 	height: 135px;
-	 	width: 650px;
+	 	width: 1200px;
 	 	border-style: ridge;
 	 	float: left;
     padding-top: 15px;
@@ -23,8 +23,8 @@
     
     .wrap .konten{
 	 	background: grey;
-	 	height: 600px;
-	 	width: 1800px;
+	 	height: 1500px;
+	 	width: 1200px;
 	 	border-style: ridge;
 	 	float: left;
 	 }
