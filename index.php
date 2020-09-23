@@ -15,16 +15,16 @@
     .wrap .judul{
 	 	background: grey;
 	 	height: 135px;
-	 	width: 1200px;
+	 	width: 970px;
 	 	border-style: ridge;
 	 	float: left;
-    padding-top: 15px;
+    		padding-top: 15px;
     }
     
     .wrap .konten{
 	 	background: grey;
-	 	height: 1500px;
-	 	width: 1200px;
+	 	height: 1000px;
+	 	width: 970px;
 	 	border-style: ridge;
 	 	float: left;
 	 }
@@ -43,8 +43,9 @@
   
 <body>
 <div class="wrap">
-    <div class="judul">          
-             <center><h1><em>Cloud Computing</em></h1></center>
+    <div class="judul">  
+	    <br>
+            <center><h1><em>Cloud Computing</em></h1></center>
     </div>
  
   <div class="konten">
