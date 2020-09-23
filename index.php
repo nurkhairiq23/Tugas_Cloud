@@ -36,7 +36,7 @@
 
     p {
       font-family: sans-serif;
-      font-size: 15px;
+      font-size: 18px;
     }
   </style>
 </head>
@@ -52,8 +52,12 @@
         <center>
             <h3>Fasilitas UIN Syarif Hidayatullah Jakarta</h3>
             <img src="perpustakaan.jpg" height= "250px" width= "500px">
-            <p style="text-align: center"> Perpustakaan utama UIN Jakarta ini atau dapat disebut juga Pusat Perpustakaan UIN Jakarta merupakan salah satu fasilitas yang ada di UIN jakarta. erdiri dari tujuh lantai dengan dilengkapi buku-buku umum, buku-buku Islam, kumpulan skripsi, tesis, disertasi dan jurnal-jurnal ilmiah serta buku-buku online terlengkap. Pelayanannya yang baik dan canggih juga membuat mahasiswa nyaman untuk belajar di Perpustakaan Pusat. Selain itu di tiap fakultas juga dilengkapi  dengan Perpustakaan Fakultas dan gedung khusus Perpustakaan Pascasarjana.</p>
-            <h4>Study From Home</h4>
+            <p style="text-align: center"> Perpustakaan utama UIN Jakarta ini atau dapat disebut juga Pusat Perpustakaan UIN Jakarta merupakan salah satu fasilitas yang ada di UIN jakarta. Perpustakaan ini terdiri dari tujuh lantai dengan dilengkapi buku-buku umum, buku-buku Islam, kumpulan skripsi, tesis, disertasi dan jurnal-jurnal ilmiah serta buku-buku online terlengkap. Pelayanannya yang baik dan canggih juga membuat mahasiswa nyaman untuk belajar di Perpustakaan Pusat. Selain itu di tiap fakultas juga dilengkapi  dengan Perpustakaan Fakultas dan gedung khusus Perpustakaan Pascasarjana.</p>
+            
+	    <img src="perpustakaan.jpg" height= "250px" width= "500px">
+            <p style="text-align: center"> Pusat Laboratorium Terpadu Universitas Islam Negeri Syarif Hidayatullah Jakarta.</p>
+            
+	    <h3>Study From Home</h3>
             <p style="text-align: center">Nama nya juga study from home, udah pasti ada positif dan negatifnya. positifnya ya kita bisa mengecilkan
             resiko penyebaran virus ini, kita juga bisa melatih team work secara berjauhan (tugas kelompok). kalo negatifnya sih jadi kurang produktif,
             jadi semakin susah juga buat memahami materi yang diberika dosen, jadi kurang konsentrasi juga untuk belajar karena suasana rumah, dan 
