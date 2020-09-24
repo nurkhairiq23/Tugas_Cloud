@@ -70,6 +70,10 @@
     		padding-bottom: 10px;
 	 }
 
+    h1 {
+	text-decoration: underline;  
+    }
+	  
     p {
       	font-family: Montserrat;
       	font-size: 16px;
