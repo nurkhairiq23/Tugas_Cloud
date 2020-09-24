@@ -35,7 +35,7 @@
 	 
     .wrap .menu ul li{
 	font: 20px Montserrat, sans-serif;
-    	letter-spacing: 5px;
+    	letter-spacing: 4px;
 	float: left;
 	list-style-type: none;
 	padding: 10px;
@@ -59,14 +59,7 @@
 	 }
     h1 {
         font-family: serif;
-	font_style: bold;
-        color: white;
-        text-align: center;
-    }
-	
-    h2 {
-        font-family: serif;
-	font_style: bold;
+	font-style: bold;
         color: white;
         text-align: center;
     }
@@ -94,7 +87,7 @@
       	<ul class="nav navbar-nav navbar-right">
     	<div class="menu">
 	    <ul>
-		<li><a href="#">Fasilitas</a></li>
+		<li><a href="#">Facility</a></li>
 		<li><a href="#">Study From Home</a></li>
 		<li><a href="#">Contact Me</a></li>				
 	    </ul>
@@ -105,7 +98,7 @@
      <div class="konten">
         <center>
 	  
-            <h2 style="color: white">FASILITAS UIN SYARIF HIDAYATULLAH</h2>
+            <h1 style="color: white">FASILITAS UIN SYARIF HIDAYATULLAH</h1>
 		
             <h3>1. Perpustakaan Utama UIN Jakarta</h3>
 	    <img src="perpustakaan.jpg" height= "250px" width= "500px">
@@ -126,7 +119,9 @@
             <h3>5. Auditorium Harun Nasution UIN Jakarta</h3>		
 	    <img src="harun.jpg" height= "250px" width= "500px">
 	    <p style="text-align: center"> Auditorium Harun Nasution digunakan untuk tempat menyelenggarakan kegiatan-kegiatan besar seperti seminar, konser, hingga prosesi wisuda. </p>	    
-        
+
+            <h1 style="color: white">STUDY FROM HOME</h1>
+	    <p style="text-align: center"> </p>
 	</center>
   </div>
 </div>
