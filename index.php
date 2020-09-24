@@ -30,7 +30,7 @@
     }
 	  
     .wrap .menu{
-	background: #c0c0c0;
+	background: #f5f6f7;
 	width: 970px;
     	border: 0;
     	border-radius: 0;
