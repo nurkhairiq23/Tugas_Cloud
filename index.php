@@ -90,7 +90,7 @@
       	<ul class="nav navbar-nav navbar-right">
     	<div class="menu">
 	    <ul>
-		<li><a href="#">Facility</a></li>
+		<li><a href="#">Facilities</a></li>
 		<li><a href="#">Study From Home</a></li>
 		<li><a href="#">Contact Me</a></li>				
 	    </ul>
