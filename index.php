@@ -71,7 +71,6 @@
 	 }
     h1 {
         font-family: serif;
-        color: white;
         text-align: center;
     }
 
@@ -91,7 +90,7 @@
 <body>
 <div class="wrap">
     <div class="judul">  
-            <center><h1><em>Static Page Nurkhairi Amini</em></h1></center>
+	    <center><h1><b><em>Static Page Nurkhairi Amini</em></b></h1></center>
     </div>
 	
     <div class="collapse navbar-collapse" id="myNavbar">
