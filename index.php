@@ -152,7 +152,7 @@
      <div class="footer">
 	<center> 
 	<br>
-  		<p style="color: white">Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a> and Twitter <a href="https://twitter.com/amytabachann">Nurkhairi Amini</a></p> 	     
+  		<p style="color: white">Contact Me On <a href="https://www.instagram.com/amy.nurkhairi/">Instagram</a> and <a href="https://twitter.com/amytabachann">Twitter</a></p> 	     
 	</center>
      </div>	
 </div>
