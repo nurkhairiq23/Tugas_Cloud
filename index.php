@@ -11,7 +11,6 @@
   <style>
     body {
         background-color: pink;
-	font: 20px Montserrat, sans-serif;
     }
 
     .wrap{
@@ -21,6 +20,7 @@
     
     .wrap .menu{
 	background: grey;
+	font: 20px Montserrat, sans-serif;
     }
 	 
     .wrap .menu ul{
