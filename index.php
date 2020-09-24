@@ -21,7 +21,14 @@
     .wrap .menu{
 	background: grey;
 	width: 970px;
-    }
+	padding-top: 40px;
+    	padding-bottom: 45px;
+    	border: 0;
+    	border-radius: 0;
+    	margin-bottom: 0;
+    	font-size: 12px;
+    	letter-spacing: 5px;
+    	}
 	 
     .wrap .menu ul{
 	padding: 0;
