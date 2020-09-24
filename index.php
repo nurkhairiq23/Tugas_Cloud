@@ -26,11 +26,11 @@
     .wrap .menu ul{
 	padding: 0;
 	margin: 0;
-	background: yellow;
 	overflow: hidden;
     }
 	 
     .wrap .menu ul li{
+	font: 20px Montserrat, sans-serif;
 	float: left;
 	list-style-type: none;
 	padding: 10px;
