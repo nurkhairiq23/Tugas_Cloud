@@ -11,7 +11,7 @@
   <style>
     body {
         background-color: pink;
-	font-family: sans-serif;
+	font-family: serif;
     }
 
     .wrap{
@@ -52,7 +52,7 @@
     
     .wrap .konten{
 	 	background: #a9a9a9;
-	 	height: 2500px;
+	 	height: 2225px;
 	 	width: 970px;
 	 	border-style: ridge;
 	 	float: left;
