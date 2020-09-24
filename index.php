@@ -2,6 +2,8 @@
 <html>
 <head>
   <title>Tugas Cloud Nurkhairi Amini</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <style>
     body {
         background-color: pink;
