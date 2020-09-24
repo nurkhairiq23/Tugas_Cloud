@@ -72,7 +72,7 @@
     </div>
 	
     <div class="collapse navbar-collapse" id="myNavbar">
-      	<ul class="nav navbar-nav navbar-right">
+      	<ul class="nav navbar-nav navbar-left">
     	<div class="menu">
 	    <ul>
 		<li><a href="#">Fasilitas</a></li>
