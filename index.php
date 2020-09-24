@@ -63,8 +63,7 @@
 	 	background:#2f2f2f;
 	 	border-style: solid;
 	    	border-color: #2f2f2f;
-	 	padding-top: 50px;
-    		padding-bottom: 50px;
+    		padding-bottom: 10px;
 	 }
     h1 {
         font-family: serif;
@@ -155,10 +154,7 @@
 	<br>
   		<p style="color: white">Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a> and Twitter <a href="https://twitter.com/amytabachann">Nurkhairi Amini</a></p> 	     
 	</center>
-     </div>
-  <footer class="container-fluid text-center">
-  	<p>Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a> and Twitter <a href="https://twitter.com/amytabachann">Nurkhairi Amini</a></p> 
-  </footer>	
+     </div>	
 </div>
 </body>
 </html>
