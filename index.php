@@ -11,6 +11,7 @@
   <style>
     body {
         background-color: pink;
+	font-family: sans-serif;
     }
 
     .wrap{
