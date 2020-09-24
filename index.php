@@ -62,10 +62,14 @@
       font-family: sans-serif;
       font-size: 18px;
     }
+
+    .navbar-nav  li a:link {
+    color: dark grey;
+    }
 	  
     .navbar-nav  li a:hover {
-    color: #1abc9c !important;
-  }
+    color: white;
+    }
   </style>
 </head>
   
