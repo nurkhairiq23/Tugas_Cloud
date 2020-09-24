@@ -109,7 +109,7 @@
 	  
             <h2>FASILITAS UIN SYARIF HIDAYATULLAH</h2>
 		
-            <h3 style="font-family: serif">1. Perpustakaan Utama UIN Jakarta</h3>
+            <h3>1. Perpustakaan Utama UIN Jakarta</h3>
 	    <img src="perpustakaan.jpg" height= "200px" width= "400px">
             <p style="text-align: center"> Perpustakaan utama UIN Jakarta ini atau dapat disebut juga Pusat Perpustakaan UIN Jakarta merupakan salah satu fasilitas yang ada di UIN jakarta. Perpustakaan ini terdiri dari tujuh lantai dengan dilengkapi buku-buku umum, buku-buku Islam, kumpulan skripsi, tesis, disertasi dan jurnal-jurnal ilmiah serta buku-buku online terlengkap. Pelayanannya yang baik dan canggih juga membuat mahasiswa nyaman untuk belajar di Perpustakaan Pusat. Selain itu di tiap fakultas juga dilengkapi  dengan Perpustakaan Fakultas dan gedung khusus Perpustakaan Pascasarjana.</p>
 
