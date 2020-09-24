@@ -70,7 +70,7 @@
     		padding-bottom: 10px;
 	 }
 
-    h1 {
+    h2 {
 	text-decoration: underline;  
     }
 	  
