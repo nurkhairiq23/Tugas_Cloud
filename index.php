@@ -20,7 +20,7 @@
 	  }
 	  
     .wrap .judul{
-	 	background: #a9a9a9;
+	 	background: #c0c0c0;
 	 	height: 135px;
 	 	width: 970px;
 	 	border-style: solid;
@@ -30,7 +30,7 @@
     }
 	  
     .wrap .menu{
-	background: #f5f6f7;
+	background: #c0c0c0;
 	width: 970px;
     	border: 0;
     	border-radius: 0;
