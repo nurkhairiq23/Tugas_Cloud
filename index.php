@@ -44,7 +44,7 @@
     }
 	 
     .wrap .menu ul li{
-	font: 20px Montserrat, sans-serif;
+	font: 18px Montserrat;
     	letter-spacing: 4px;
 	float: left;
 	list-style-type: none;
