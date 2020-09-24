@@ -20,6 +20,7 @@
     
     .wrap .menu{
 	background: grey;
+	width: 970px;
     }
 	 
     .wrap .menu ul{
