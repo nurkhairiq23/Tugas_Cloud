@@ -117,7 +117,7 @@
 	    <img src="sc.jpg" height= "200px" width= "400px">
 	    <p style="text-align: center"> Student Center merupakan tempatnya para mahasiswa berkumpul. Gedung SC ini merupakan sebuah gedung yang luas, yang di dalamnya terdapat stadion mini beserta lapangannya, mesjid, aula, koperasi, hingga sekretariat UKM. Pilihan UKM yang ada di UIN Jakarta pun beragam, yang menyesuaikan dengan minat dan bakat Quipperian.</p>
 
-            <h3>4. Student Center UIN Jakarta</h3>		
+            <h3>4. Kafe Cangkir UIN Jakarta</h3>		
 	    <img src="cangkir.jpg" height= "200px" width= "400px">
 	    <p style="text-align: center"> Kafe yang berbentuk cangkir raksasa ini menyediakan menu-menu yang beraneka macam seperti aneka nasi, sajian mie yang beragam, ayam, ikan, lauk pauk, dan lain-lain. Selain makanan, Kafe Cangkir juga dilengkapi minimarket yang menjual kebutuhan mahasiswa yang lengkap, baik berupa alat tulis hingga keperluan rumah.</p>
 	
