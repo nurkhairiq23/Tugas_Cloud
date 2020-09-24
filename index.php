@@ -50,6 +50,10 @@
 	list-style-type: none;
 	padding: 10px;
     }
+	  
+    .navbar-nav  li a:hover {
+     	color: #d2416c;
+    }
     
     .wrap .konten{
 	 	background: #a9a9a9;
@@ -80,15 +84,7 @@
       	font-family: Montserrat;
       	font-size: 16px;
     }
-	  
-    .navbar-nav  li a:hover {
-     	color: #d2416c;
-    }
-	  
-    .container-fluid {
-    	padding-top: 10px;
-    	padding-bottom: 10px;
-    }
+
   </style>
 </head>
   
