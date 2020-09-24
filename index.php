@@ -52,7 +52,7 @@
     
     .wrap .konten{
 	 	background: #a9a9a9;
-	 	height: 2000px;
+	 	height: 2010px;
 	 	width: 970px;
 	 	border-style: ridge;
 	 	float: left;
@@ -72,7 +72,7 @@
     }
 
     p {
-      font-family: sans-serif;
+      font-family: Montserrat;
       font-size: 18px;
     }
 	  
@@ -127,7 +127,6 @@
 	    <img src="harun.jpg" height= "250px" width= "500px">
 	    <p style="text-align: center"> Auditorium Harun Nasution digunakan untuk tempat menyelenggarakan kegiatan-kegiatan besar seperti seminar, konser, hingga prosesi wisuda. </p>	    
         
-	    <li><a href="#">Study From Home</a></li>
 	</center>
   </div>
 </div>
