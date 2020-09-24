@@ -31,10 +31,10 @@
     }
 	 
     .wrap .menu ul li{
-	font: 20px Montserrat, sans-serif;
+	font: 20px Montserrat;
 	float: left;
 	list-style-type: none;
-	padding: 10px;
+	padding: 15px;
     }
 	  
     .wrap .judul{
