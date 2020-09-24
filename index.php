@@ -142,9 +142,10 @@
 	    <br>		
 	</center>
   </div>
-</div>
-<footer class="container-fluid text-center">
+  <footer class="container-fluid text-center">
   <p>Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a></p> 
 </footer>
+</div>
+
 </body>
 </html>
