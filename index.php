@@ -12,7 +12,6 @@
     body {
         background-color: pink;
 	font: 20px Montserrat, sans-serif;
-    	line-height: 1.8;
     }
 
     .wrap{
@@ -20,6 +19,23 @@
 	 	margin: auto;
 	  }
     
+    .wrap .menu{
+	background: grey;
+    }
+	 
+    .wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	background: yellow;
+	overflow: hidden;
+    }
+	 
+    .wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+    }
+	  
     .wrap .judul{
 	 	background: grey;
 	 	height: 135px;
