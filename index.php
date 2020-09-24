@@ -59,7 +59,6 @@
 	 }
     h1 {
         font-family: serif;
-	font-style: bold;
         color: white;
         text-align: center;
     }
