@@ -19,9 +19,9 @@
 	  }
     
     .wrap .menu{
-	background: grey;
+	background: #f5f6f7;
 	width: 970px;
-    	border: 10px;
+    	border: 0;
     	border-radius: 0;
     	margin-bottom: 0;
     	}
