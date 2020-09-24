@@ -18,10 +18,7 @@
 	 	margin: auto;
 	  }
     
-    .wrap .menu{
-	background: grey;
-	font: 20px Montserrat, sans-serif;
-    }
+    
 	 
     .wrap .menu ul{
 	padding: 0;
