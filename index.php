@@ -68,13 +68,19 @@
 	    <br>
             <center><h1><em>Static Page Nurkhairi Amini</em></h1></center>
     </div>
-    <div class="menu">
-	<ul>
+	
+    <div class="collapse navbar-collapse" id="myNavbar">
+      	<ul class="nav navbar-nav navbar-right">
+    	<div class="menu">
+	    <ul>
 		<li><a href="#">Fasilitas</a></li>
 		<li><a href="#">Study From Home</a></li>
 		<li><a href="#">Contact Me</a></li>				
+	    </ul>
+	</div>
 	</ul>
-		</div>
+     </div>
+	
      <div class="konten">
         <center>
 	    <li><a href="#">Fasilitas UIN</a></li>
