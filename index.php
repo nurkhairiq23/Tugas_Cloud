@@ -143,7 +143,7 @@
 	</center>
   </div>
   <footer class="container-fluid text-center">
-  <p>Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a></p> 
+  <p>Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a> and Twitter <a href="https://twitter.com/amytabachann">Nurkhairi Amini</a></p> 
 </footer>
 </div>
 
