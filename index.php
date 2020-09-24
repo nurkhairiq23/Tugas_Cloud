@@ -42,7 +42,7 @@
     }
 	  
     .wrap .judul{
-	 	background: grey;
+	 	background: #d3d3d3;
 	 	height: 135px;
 	 	width: 970px;
 	 	border-style: ridge;
@@ -51,7 +51,7 @@
     }
     
     .wrap .konten{
-	 	background: grey;
+	 	background: #d3d3d3;
 	 	height: 2000px;
 	 	width: 970px;
 	 	border-style: ridge;
