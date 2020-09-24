@@ -14,14 +14,14 @@
     }
 
     .wrap{
-	 	width: 970px;
-	 	margin: auto;
+	 width: 970px;
+	 margin: auto;
 	  }
     
     .wrap .menu{
 	background: grey;
 	width: 970px;
-    	border: 0;
+    	border: 10px;
     	border-radius: 0;
     	margin-bottom: 0;
     	}
