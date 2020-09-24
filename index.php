@@ -78,8 +78,8 @@
     }
 	  
     .container-fluid {
-    	padding-top: 50px;
-    	padding-bottom: 50px;
+    	padding-top: 500px;
+    	padding-bottom: 500px;
     }
   </style>
 </head>
