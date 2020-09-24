@@ -20,7 +20,6 @@
     
     .wrap .menu{
 	background: grey;
-	margin: auto;
     }
 	 
     .wrap .menu ul{
@@ -30,7 +29,7 @@
     }
 	 
     .wrap .menu ul li{
-	font: 20px Montserrat;
+	font: 20px Montserrat, sans-serif;
 	float: left;
 	list-style-type: none;
 	padding: 10px;
