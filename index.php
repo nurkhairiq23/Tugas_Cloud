@@ -69,16 +69,7 @@
 	    	border-color: #2f2f2f;
     		padding-bottom: 10px;
 	 }
-    h1 {
-        font-family: serif;
-        text-align: center;
-    }
 
-    h2 {
-        font-family: serif;
-        color: white;
-        text-align: center;
-    }
     p {
       	font-family: Montserrat;
       	font-size: 16px;
