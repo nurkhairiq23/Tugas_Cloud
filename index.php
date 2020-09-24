@@ -63,14 +63,19 @@
         text-align: center;
     }
 
-    p {
-      font-family: Montserrat;
-      font-size: 16px;
-    }
+     h2 {
+        font-family: serif;
+        color: white;
+        text-align: center;
+     }
+     p {
+      	font-family: Montserrat;
+      	font-size: 16px;
+     }
 	  
-    .navbar-nav  li a:hover {
-    color: #d2416c;
-    }
+     .navbar-nav  li a:hover {
+     	color: #d2416c;
+     }
   </style>
 </head>
   
@@ -97,7 +102,7 @@
      <div class="konten">
         <center>
 	  
-            <h2 style="color: white">FASILITAS UIN SYARIF HIDAYATULLAH</h2>
+            <h2>FASILITAS UIN SYARIF HIDAYATULLAH</h2>
 		
             <h3 style="font-family: serif">1. Perpustakaan Utama UIN Jakarta</h3>
 	    <img src="perpustakaan.jpg" height= "250px" width= "500px">
@@ -119,7 +124,7 @@
 	    <img src="harun.jpg" height= "250px" width= "500px">
 	    <p style="text-align: center"> Auditorium Harun Nasution digunakan untuk tempat menyelenggarakan kegiatan-kegiatan besar seperti seminar, konser, hingga prosesi wisuda. </p>	    
 
-            <h2 style="color: white">STUDY FROM HOME</h2>
+            <h2>STUDY FROM HOME</h2>
 	    <p style="text-align: center"> </p>
 	</center>
   </div>
