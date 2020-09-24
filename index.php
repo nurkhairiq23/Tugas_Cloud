@@ -66,13 +66,9 @@
       font-family: sans-serif;
       font-size: 18px;
     }
-
-    .navbar-nav  li a:link {
-    color: dark grey;
-    }
 	  
     .navbar-nav  li a:hover {
-    color: white;
+    color: d2416c;
     }
   </style>
 </head>
