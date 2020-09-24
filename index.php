@@ -58,7 +58,15 @@
 	 	float: left;
 	 }
     h1 {
-        font-family: sans-serif;
+        font-family: serif;
+	font_style: bold;
+        color: white;
+        text-align: center;
+    }
+	
+    h2 {
+        font-family: serif;
+	font_style: bold;
         color: white;
         text-align: center;
     }
@@ -97,7 +105,7 @@
      <div class="konten">
         <center>
 	  
-            <h2 style="color: white" "font-family: vandana">FASILITAS UIN SYARIF HIDAYATULLAH</h2>
+            <h2 style="color: white">FASILITAS UIN SYARIF HIDAYATULLAH</h2>
 		
             <h3>1. Perpustakaan Utama UIN Jakarta</h3>
 	    <img src="perpustakaan.jpg" height= "250px" width= "500px">
