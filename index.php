@@ -18,7 +18,16 @@
 	 width: 970px;
 	 margin: auto;
 	  }
-    
+	  
+    .wrap .judul{
+	 	background: #a9a9a9;
+	 	height: 135px;
+	 	width: 970px;
+	 	border-style: solid;
+	 	float: left;
+    		padding-top: 15px;
+    }
+	  
     .wrap .menu{
 	background: #f5f6f7;
 	width: 970px;
@@ -39,15 +48,6 @@
 	float: left;
 	list-style-type: none;
 	padding: 10px;
-    }
-	  
-    .wrap .judul{
-	 	background: #a9a9a9;
-	 	height: 135px;
-	 	width: 970px;
-	 	border-style: ridge;
-	 	float: left;
-    		padding-top: 15px;
     }
     
     .wrap .konten{
