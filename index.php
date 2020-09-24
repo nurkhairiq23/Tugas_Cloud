@@ -21,6 +21,7 @@
     .wrap .menu{
 	background: grey;
 	width: 970px;
+	padding-left: 30px;
 	margin: auto;
     }
 	 
