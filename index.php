@@ -24,7 +24,7 @@
 	 	height: 135px;
 	 	width: 970px;
 	 	border-style: solid;
-	    	border-color: #a9a9a9;
+	    	border-color: #c0c0c0;
 	 	float: left;
     		padding-top: 20px;
     }
@@ -56,11 +56,11 @@
     }
     
     .wrap .konten{
-	 	background: #a9a9a9;
+	 	background: #c0c0c0;
 	 	height: 2300px;
 	 	width: 970px;
 	 	border-style: solid;
-	    	border-color: #a9a9a9;
+	    	border-color: #c0c0c0;
 	 	float: left;
 	 }
    .wrap .footer{
