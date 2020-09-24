@@ -52,7 +52,7 @@
     
     .wrap .konten{
 	 	background: #a9a9a9;
-	 	height: 2010px;
+	 	height: 2500px;
 	 	width: 970px;
 	 	border-style: ridge;
 	 	float: left;
@@ -86,7 +86,6 @@
             <center><h1><em>Static Page Nurkhairi Amini</em></h1></center>
     </div>
 	
-    
     <div class="collapse navbar-collapse" id="myNavbar">
       	<ul class="nav navbar-nav navbar-right">
     	<div class="menu">
@@ -125,7 +124,16 @@
 	    <p style="text-align: center"> Auditorium Harun Nasution digunakan untuk tempat menyelenggarakan kegiatan-kegiatan besar seperti seminar, konser, hingga prosesi wisuda. </p>	    
 
             <h2>STUDY FROM HOME</h2>
-	    <p style="text-align: center"> </p>
+	    <p style="text-align: center"> Halo Guys :)</p>
+	    <br>
+	    <p style="text-align: center"> Saya mau cerita nih. Beberapa bulan kebelakang ini, kita semua pasti sudah tidak awam lagi tentang bagaimana wabah Covid-19 merubah dunia, termasuk juga di Indonesia. Berbagai upaya pencegahan dilakukan, pemerintah sudah mulai meminta masyarakat untuk menghindari tempat ramai dan meminimalisasi kegiatan yang melibatkan banyak orang. Salah satu kebijakan pemerintah untuk memutuskan mata rantai penyebaran covid-19 ini adalah dengan menerapkan aturan study from home.</p>
+	    <br>
+	    <p style="text-align: center"> Menurut saya, study from home ini pastinya sangat fleksibel di segi waktu, efektif dan efisien. Saya tidak perlu siap-siap berangkat pagi dan cukup dengan membuka laptop di rumah. Kuliah online ini merupakan hal yg sangat baru bagi saya pribadi dan mungkin juga bagi semua orang. Awalnya sih agak bingung dan aneh karena belajar hanya lewat online saja. Namun semakin lama, saya makin terbiasa. Kegiatan ini juga memberikan saya pengalaman baru yang lumayan menarik.</p>
+	    <br>
+	    <p style="text-align: center"> Tidak terasa Study from home ini sudah saya jalani selama kurang lebih hampir 7 bulan. Sebenarnya ada sih rasa bosan, tapi nikmatin saja lah karena setiap apapun hal pasti ada hikmahnya. Seperti yang aku rasakan dari kuliah online ini, salah satu hikmahnya yaitu kita dapat melatih kemandirian kita dalam menggunakan waktu kita untuk belajar.</p>
+	    <br>
+	    <p style="text-align: center"> Walaupun study from home ini ada bagusnya untuk mahasiswa, tetapi harapan saya kebijakan ini tidak berlarut terlalu lama. Semoga wabah covid 19 di Indonesia cepat teratasi dan keadaan cepat normal kembali agar perkuliahan dapat dilakukan dengan cara tatap muka lagi dan bertemu dengan teman-teman kampus. </p>
+	    <br>		
 	</center>
   </div>
 </div>
