@@ -20,11 +20,11 @@
 	  }
 	  
     .wrap .judul{
-	 	background: #c0c0c0;
+	 	background: #b9c7cc;
 	 	height: 135px;
 	 	width: 970px;
 	 	border-style: solid;
-	    	border-color: #c0c0c0;
+	    	border-color: #b9c7cc;
 	 	float: left;
     		padding-top: 20px;
     }
