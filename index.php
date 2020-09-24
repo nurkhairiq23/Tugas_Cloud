@@ -85,7 +85,7 @@
 <body>
 <div class="wrap">
     <div class="judul">  
-	    <center><h1><b><em>Static Page Nurkhairi Amini</em></b></h1></center>
+	    <center><h1><b><em>Welcome to Nurkhairi Amini's Static Page</em></b></h1></center>
     </div>
 	
     <div class="collapse navbar-collapse" id="myNavbar">
@@ -132,7 +132,7 @@
 	    <br>
 	    <p style="text-align: center"> Menurut saya, study from home ini pastinya sangat fleksibel di segi waktu, efektif dan efisien. Saya tidak perlu siap-siap berangkat pagi dan cukup dengan membuka laptop di rumah. Kuliah online ini merupakan hal yg sangat baru bagi saya pribadi dan mungkin juga bagi semua orang. Awalnya sih agak bingung dan aneh karena belajar hanya lewat online saja. Namun semakin lama, saya makin terbiasa. Kegiatan ini juga memberikan saya pengalaman baru yang lumayan menarik.</p>
 	    <br>
-	    <p style="text-align: center"> Tidak terasa Study from home ini sudah saya jalani selama kurang lebih hampir 7 bulan. Sebenarnya ada sih rasa bosan, tapi nikmatin saja lah karena setiap apapun hal pasti ada hikmahnya. Seperti yang aku rasakan dari kuliah online ini, salah satu hikmahnya yaitu kita dapat melatih kemandirian kita dalam menggunakan waktu kita untuk belajar.</p>
+	    <p style="text-align: center"> Tidak terasa Study from home ini sudah saya jalani selama kurang lebih hampir 7 bulan. Sebenarnya ada sih rasa bosan, tapi nikmatin saja lah karena setiap apapun hal pasti ada hikmahnya. Seperti yang saya rasakan dari kuliah online ini, salah satu hikmahnya yaitu kita dapat melatih kemandirian kita dalam menggunakan waktu kita untuk belajar.</p>
 	    <br>
 	    <p style="text-align: center"> Walaupun study from home ini ada bagusnya untuk mahasiswa, tetapi harapan saya kebijakan ini tidak berlarut terlalu lama. Semoga wabah covid 19 di Indonesia cepat teratasi dan keadaan cepat normal kembali agar perkuliahan dapat dilakukan dengan cara tatap muka lagi dan bertemu dengan teman-teman kampus. </p>
 	    <br>		
