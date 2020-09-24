@@ -27,7 +27,6 @@
 	    	border-color: #a9a9a9;
 	 	float: left;
     		padding-top: 15px;
-	    	vertical-align: center;
     }
 	  
     .wrap .menu{
@@ -65,7 +64,6 @@
 	 	border-style: solid;
 	    	border-color: #2f2f2f;
     		padding-bottom: 10px;
-	   	vertical-align: center;
 	 }
     h1 {
         font-family: serif;
