@@ -63,19 +63,24 @@
         text-align: center;
     }
 
-     h2 {
+    h2 {
         font-family: serif;
         color: white;
         text-align: center;
-     }
-     p {
+    }
+    p {
       	font-family: Montserrat;
       	font-size: 16px;
-     }
+    }
 	  
-     .navbar-nav  li a:hover {
+    .navbar-nav  li a:hover {
      	color: #d2416c;
-     }
+    }
+	  
+    .container-fluid {
+    	padding-top: 50px;
+    	padding-bottom: 50px;
+    }
   </style>
 </head>
   
@@ -137,5 +142,8 @@
 	</center>
   </div>
 </div>
+<footer class="container-fluid text-center">
+  <p>Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a></p> 
+</footer>
 </body>
 </html>
