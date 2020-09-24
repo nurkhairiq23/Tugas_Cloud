@@ -52,7 +52,7 @@
     
     .wrap .konten{
 	 	background: #a9a9a9;
-	 	height: 2225px;
+	 	height: 2300px;
 	 	width: 970px;
 	 	border-style: ridge;
 	 	float: left;
