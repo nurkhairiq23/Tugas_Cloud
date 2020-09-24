@@ -57,7 +57,7 @@
 	 	border-style: ridge;
 	 	float: left;
 	 }
-    h1 {
+    h2 {
         font-family: serif;
         color: white;
         text-align: center;
@@ -97,7 +97,7 @@
      <div class="konten">
         <center>
 	  
-            <h1 style="color: white">FASILITAS UIN SYARIF HIDAYATULLAH</h1>
+            <h2 style="color: white">FASILITAS UIN SYARIF HIDAYATULLAH</h2>
 		
             <h3>1. Perpustakaan Utama UIN Jakarta</h3>
 	    <img src="perpustakaan.jpg" height= "250px" width= "500px">
@@ -119,7 +119,7 @@
 	    <img src="harun.jpg" height= "250px" width= "500px">
 	    <p style="text-align: center"> Auditorium Harun Nasution digunakan untuk tempat menyelenggarakan kegiatan-kegiatan besar seperti seminar, konser, hingga prosesi wisuda. </p>	    
 
-            <h1 style="color: white">STUDY FROM HOME</h1>
+            <h2 style="color: white">STUDY FROM HOME</h2>
 	    <p style="text-align: center"> </p>
 	</center>
   </div>
