@@ -151,7 +151,9 @@
   </div>
 
      <div class="footer">
-  	<p>Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a> and Twitter <a href="https://twitter.com/amytabachann">Nurkhairi Amini</a></p> 	     
+	<center> <br>
+  		<p>Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a> and Twitter <a href="https://twitter.com/amytabachann">Nurkhairi Amini</a></p> 	     
+	</center>
      </div>
   <footer class="container-fluid text-center">
   	<p>Contact Me On Instagram <a href="https://www.instagram.com/amy.nurkhairi/">Nurkhairi Amini</a> and Twitter <a href="https://twitter.com/amytabachann">Nurkhairi Amini</a></p> 
