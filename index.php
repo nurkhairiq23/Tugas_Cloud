@@ -64,13 +64,7 @@
 	    <p style="text-align: center"> Kafe yang berbentuk cangkir raksasa ini menyediakan menu-menu yang beraneka macam seperti aneka nasi, sajian mie yang beragam, ayam, ikan, lauk pauk, dan lain-lain. Selain makanan, Kafe Cangkir juga dilengkapi minimarket yang menjual kebutuhan mahasiswa yang lengkap, baik berupa alat tulis hingga keperluan rumah.</p>
 		
 	    <img src="harun.jpg" height= "250px" width= "500px">
-	    <p style="text-align: center"> Auditorium Harun Nasution digunakan untuk tempat menyelenggarakan kegiatan-kegiatan besar seperti seminar, konser, hingga prosesi wisuda. </p>
-		    
-	    <h3>Study From Home</h3>
-            <p style="text-align: center">Nama nya juga study from home, udah pasti ada positif dan negatifnya. positifnya ya kita bisa mengecilkan
-            resiko penyebaran virus ini, kita juga bisa melatih team work secara berjauhan (tugas kelompok). kalo negatifnya sih jadi kurang produktif,
-            jadi semakin susah juga buat memahami materi yang diberika dosen, jadi kurang konsentrasi juga untuk belajar karena suasana rumah, dan 
-            tentunya masih banyak lagi hal lainnya mengenai suka duka dari study from home ini.</p>
+	    <p style="text-align: center"> Auditorium Harun Nasution digunakan untuk tempat menyelenggarakan kegiatan-kegiatan besar seperti seminar, konser, hingga prosesi wisuda. </p>	    
         </center>
   </div>
 </div>
