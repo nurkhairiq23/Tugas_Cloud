@@ -96,8 +96,8 @@
 	
      <div class="konten">
         <center>
-	    <li><a href="#">Fasilitas UIN</a></li>
-            <h2 style="color: white">FASILITAS UIN SYARIF HIDAYATULLAH</h2>
+	  
+            <h2 style="color: white" "font-family: vandana">FASILITAS UIN SYARIF HIDAYATULLAH</h2>
 		
             <h3>1. Perpustakaan Utama UIN Jakarta</h3>
 	    <img src="perpustakaan.jpg" height= "250px" width= "500px">
