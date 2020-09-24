@@ -20,9 +20,6 @@
     
     .wrap .menu{
 	background: grey;
-	width: 970px;
-	padding-left: 30px;
-	margin: auto;
     }
 	 
     .wrap .menu ul{
@@ -35,7 +32,7 @@
 	font: 20px Montserrat;
 	float: left;
 	list-style-type: none;
-	padding: 15px;
+	padding: 10px;
     }
 	  
     .wrap .judul{
@@ -75,7 +72,7 @@
     </div>
 	
     <div class="collapse navbar-collapse" id="myNavbar">
-      	<ul class="nav navbar-nav navbar-left">
+      	<ul class="nav navbar-nav navbar-right">
     	<div class="menu">
 	    <ul>
 		<li><a href="#">Fasilitas</a></li>
