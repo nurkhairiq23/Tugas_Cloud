@@ -31,7 +31,7 @@
 	 
     .wrap .menu ul li{
 	font: 20px Montserrat, sans-serif;
-	float: left;
+	float: right;
 	list-style-type: none;
 	padding: 10px;
     }
