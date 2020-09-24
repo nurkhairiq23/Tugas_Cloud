@@ -68,7 +68,7 @@
     }
 	  
     .navbar-nav  li a:hover {
-    color: d2416c;
+    color: #d2416c;
     }
   </style>
 </head>
