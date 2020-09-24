@@ -5,6 +5,8 @@
   <style>
     body {
         background-color: pink;
+	font: 20px Montserrat, sans-serif;
+    	line-height: 1.8;
     }
 
     .wrap{
@@ -47,9 +49,16 @@
 	    <br>
             <center><h1><em>Static Page Nurkhairi Amini</em></h1></center>
     </div>
- 
-  <div class="konten">
+    <div class="menu">
+	<ul>
+		<li><a href="#">Fasilitas</a></li>
+		<li><a href="#">Study From Home</a></li>
+		<li><a href="#">Contact Me</a></li>				
+	</ul>
+		</div>
+     <div class="konten">
         <center>
+	    <li><a href="#">Fasilitas UIN</a></li>
             <h2 style="color: white">FASILITAS UIN SYARIF HIDAYATULLAH</h2>
 		
             <h3>1. Perpustakaan Utama UIN Jakarta</h3>
@@ -71,7 +80,9 @@
             <h3>5. Auditorium Harun Nasution UIN Jakarta</h3>		
 	    <img src="harun.jpg" height= "250px" width= "500px">
 	    <p style="text-align: center"> Auditorium Harun Nasution digunakan untuk tempat menyelenggarakan kegiatan-kegiatan besar seperti seminar, konser, hingga prosesi wisuda. </p>	    
-        </center>
+        
+	    <li><a href="#">Study From Home</a></li>
+	</center>
   </div>
 </div>
 </body>
