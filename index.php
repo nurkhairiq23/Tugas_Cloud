@@ -26,7 +26,7 @@
 	 	border-style: solid;
 	    	border-color: #a9a9a9;
 	 	float: left;
-    		padding-top: 15px;
+    		padding-top: 20px;
     }
 	  
     .wrap .menu{
