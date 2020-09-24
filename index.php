@@ -77,7 +77,7 @@
 <body>
 <div class="wrap">
     <div class="judul">  
-	    <br>
+	    
             <center><h1><em>Static Page Nurkhairi Amini</em></h1></center>
     </div>
 	
